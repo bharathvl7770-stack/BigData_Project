@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project was developed as part of the **7006SCN – Machine Learning and Big Data** module.
+Module: 7006SCN Machine Learning and Big Data · Coventry University
+
+Module Leaders: Dr Katerina Stamou · Miss Eziamaka Nwakile
+
+Repository: 7006SCN2526MAYJUL/7006SCN_vlb_16859171
 
 The objective is to develop a scalable machine learning solution capable of predicting mortgage loan approval decisions using the **2023 HMDA Mortgage Application Register**.
 
